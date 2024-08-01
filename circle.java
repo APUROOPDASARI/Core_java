@@ -8,6 +8,7 @@ class Ex2
 		per=2*pi*r;
 		System.out.println("Area of a circle: "+a);
 		System.out.println("perimeter of a circle: "+per);
+		System.out.println("Area of a circle: "+a);
 	}
 }
 		
